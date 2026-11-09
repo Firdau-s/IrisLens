@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=IrisLens AI
+Comment=Jalankan aplikasi skrining slit lamp
+Exec=/home/admin/PEROGRAM/slitlamp/jalankan_irislens.sh
+TryExec=/home/admin/PEROGRAM/slitlamp/jalankan_irislens.sh
+Path=/home/admin/PEROGRAM/slitlamp/GUI/GUI
+Icon=/home/admin/PEROGRAM/slitlamp/GUI/GUI/assets/logo_transparent.png
+Terminal=false
+Categories=Medical;Science;
+StartupNotify=false
