@@ -1,0 +1,3 @@
+ultralytics>=8.4.0
+ncnn
+pnnx==20260526
